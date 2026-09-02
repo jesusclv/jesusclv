@@ -6,11 +6,11 @@
 
 ### About me
 
-🎓 MSc in Computer Science @ CIC-IPN
-💻 Software Engineer | Researcher
-🧪 Data Science & Software Technology Lab
+***🎓 MSc in Computer Science @ CIC-IPN*** <br><br>
+***💻 Software Engineer | Researcher*** <br><br>
+***🧪 Data Science & Software Technology Lab***
 
-**Interests:** 🐍 Python, 📊 Data Science, 🧠 Artificial Intelligence, 🌐 Web Development, ☁ Cloud Integrations
+**Interests:** 🐍 Python, 📊 Data Science, 🧠 Artificial Intelligence, 🌐📱 Mobile & Web Development, ☁ Cloud Integrations
 
 ### Languages and tools
 
@@ -28,7 +28,7 @@
 
 ### Social Media
 
-<p align="left">
+<p align="center">
   <a href="https://www.instagram.com/jesusclv/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
