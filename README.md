@@ -6,9 +6,9 @@
 
 ### About me
 
-***🎓 MSc in Computer Science @ CIC-IPN*** <br>
-***💻 Software Engineer | Researcher*** <br>
-***🧪 Data Science & Software Technology Lab***
+🎓*** MSc in Computer Science @ CIC-IPN*** <br>
+💻*** Software Engineer | Researcher*** <br>
+🧪*** Data Science & Software Technology Lab***
 
 **Interests:** 🐍 Python, 📊 Data Science, 🧠 Artificial Intelligence, 🌐📱 Mobile & Web Development, ☁ Cloud Integrations
 
