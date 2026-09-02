@@ -6,12 +6,13 @@
 
 ### About me
 
-🎓 Buscando oportunidades de pasantías e intercambio en la industria (CIC - IPN)
-💻 Entorno de desarrollo: Mac (Apple Silicon), Antigravity, VS Code
-🗣️ Mejorando fluidez en inglés con práctica diaria de audio
-🎮 En mis ratos libres: Resident Evil 2 y generación de video con IA (Veo)
+🎓 MSc in Computer Science @ CIC-IPN
+💻 Software Engineer | Researcher
+🧪 Data Science & Software Technology Lab
 
-**Interests:** 🐍 Python, 📊 Data Science, 🧠 Artificial Intelligence, 📜Software engineering, ⚙️ Algorithms, 🐦 Flutter, ⚛️ React
+
+
+**Interests:** 🐍 Python, 📊 Data Science, 🧠 Artificial Intelligence, 🌐 Web Development, ☁ Cloud Integrations
 
 ### Languages and tools
 
