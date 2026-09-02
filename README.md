@@ -39,9 +39,6 @@
   <a href="https://github.com/jesusclv">
     <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </a>
-  <a href="https://github.com/jesusclv">
-    <img src="https://img.shields.io/badge/Mac_OS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  </a>
 </p>
 ### Social Media
 
